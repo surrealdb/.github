@@ -1,9 +1,9 @@
 <p align="center">
 	<a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
-        <img width="100%" src="./img/white/hero.png" alt="SurrealDB Hero">
+        <img width="100%" src="https://github.com/surrealdb/.github/blob/066c99975ed9c0342bb84add1965f3fb7f3277e6/img/white/hero.png" alt="SurrealDB Hero">
     </a>
     <a href="https://surrealdb.com#gh-light-mode-only" target="_blank">
-        <img width="100%" src="./img/black/hero.png" alt="SurrealDB Hero">
+        <img width="100%" src="https://github.com/surrealdb/.github/blob/066c99975ed9c0342bb84add1965f3fb7f3277e6/img/black/hero.png" alt="SurrealDB Hero">
     </a>
 </p>
 
