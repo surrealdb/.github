@@ -48,7 +48,7 @@
     &nbsp;
     <a href="https://www.linkedin.com/company/surrealdb/"><img height="25" src="/img/social/linkedin.svg" alt="LinkedIn"></a>
     &nbsp;
-    <a href="https://twitter.com/surrealdb"><img height="25" src="/img/social/twitter.svg" alt="Twitter"></a>
+    <a href="https://x.com/surrealdb"><img height="25" src="/img/social/twitter.svg" alt="Twitter"></a>
     &nbsp;
     <a href="https://www.youtube.com/channel/UCjf2teVEuYVvvVC-gFZNq6w"><img height="25" src="/img/social/youtube.svg" alt="Youtube"></a>
     &nbsp;
