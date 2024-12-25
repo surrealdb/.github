@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://surrealdb.com/discord"><img src="https://img.shields.io/discord/902568124350599239?label=discord&style=flat-square&color=5a66f6" alt="Discord"></a>
     &nbsp;
-    <a href="https://x.com/surrealdb"><img src="https://img.shields.io/badge/x-follow_us-000000.svg?style=flat-square" alt="X"></a>
+    <a href="https://x.com/surrealdb"><img src="https://img.shields.io/badge/x-follow_us-222222.svg?style=flat-square" alt="X"></a>
     &nbsp;
     <a href="https://dev.to/surrealdb"><img src="https://img.shields.io/badge/dev-join_us-86f7b7.svg?style=flat-square" alt="Dev"></a>
     &nbsp;
@@ -28,11 +28,11 @@
     &nbsp;
     <a href="https://x.com/surrealdb"><img height="25" src="/img/social/x.svg" alt="X"></a>
     &nbsp;
-    <a href="https://www.youtube.com/channel/UCjf2teVEuYVvvVC-gFZNq6w"><img height="25" src="/img/social/youtube.svg" alt="Youtube"></a>
+    <a href="https://www.youtube.com/channel/UCjf2teVEuYVvvVC-gFZNq6w"><img height="25" src="/img/social/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://dev.to/surrealdb"><img height="25" src="/img/social/dev.svg" alt="Dev"></a>
     &nbsp;
     <a href="https://surrealdb.com/discord"><img height="25" src="/img/social/discord.svg" alt="Discord"></a>
     &nbsp;
-    <a href="https://stackoverflow.com/questions/tagged/surrealdb"><img height="25" src="/img/social/stack-overflow.svg" alt="StackOverflow"></a>
+    <a href="https://stackoverflow.com/questions/tagged/surrealdb"><img height="25" src="/img/social/stack-overflow.svg" alt="Stack Overflow"></a>
 </p>
