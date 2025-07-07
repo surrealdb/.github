@@ -20,19 +20,19 @@
 </p>
 
 <p align="center">
-    <a href="https://surrealdb.com/blog"><img height="25" src="/img/social/blog.svg" alt="Blog"></a>
+    <a href="https://surrealdb.com/blog"><img width="22" height="25" src="/img/social/blog.svg" alt="Blog"></a>
     &nbsp;
-    <a href="https://github.com/surrealdb/surrealdb"><img height="25" src="/img/social/github.svg" alt="Github"></a>
+    <a href="https://github.com/surrealdb/surrealdb"><img width="22" height="25" src="/img/social/github.svg" alt="Github"></a>
     &nbsp;
-    <a href="https://www.linkedin.com/company/surrealdb/"><img height="25" src="/img/social/linkedin.svg" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/company/surrealdb/"><img width="22" height="25" src="/img/social/linkedin.svg" alt="LinkedIn"></a>
     &nbsp;
-    <a href="https://x.com/surrealdb"><img height="25" src="/img/social/x.svg" alt="X"></a>
+    <a href="https://x.com/surrealdb"><img width="22" height="25" src="/img/social/x.svg" alt="X"></a>
     &nbsp;
-    <a href="https://www.youtube.com/channel/UCjf2teVEuYVvvVC-gFZNq6w"><img height="25" src="/img/social/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/channel/UCjf2teVEuYVvvVC-gFZNq6w"><img width="27" height="25" src="/img/social/youtube.svg" alt="YouTube"></a>
     &nbsp;
-    <a href="https://dev.to/surrealdb"><img height="25" src="/img/social/dev.svg" alt="Dev"></a>
+    <a href="https://dev.to/surrealdb"><img width="22" height="25" src="/img/social/dev.svg" alt="Dev"></a>
     &nbsp;
-    <a href="https://surrealdb.com/discord"><img height="25" src="/img/social/discord.svg" alt="Discord"></a>
+    <a href="https://surrealdb.com/discord"><img width="29" height="25" src="/img/social/discord.svg" alt="Discord"></a>
     &nbsp;
-    <a href="https://stackoverflow.com/questions/tagged/surrealdb"><img height="25" src="/img/social/stack-overflow.svg" alt="Stack Overflow"></a>
+    <a href="https://stackoverflow.com/questions/tagged/surrealdb"><img width="19" height="25" src="/img/social/stack-overflow.svg" alt="Stack Overflow"></a>
 </p>
