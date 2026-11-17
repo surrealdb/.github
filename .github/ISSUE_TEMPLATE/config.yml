@@ -1,0 +1,11 @@
+# Default for every repository in the organisation that has no
+# .github/ISSUE_TEMPLATE folder of its own. Repositories with their own
+# templates keep them, and need this link added to their own config.yml.
+blank_issues_enabled: true
+contact_links:
+  - name: Ask a question
+    url: https://github.com/orgs/surrealdb/discussions
+    about: Ask questions and discuss SurrealDB with the team and other community members.
+  - name: Security issues
+    url: https://surrealdb.com/legal/security
+    about: Report security vulnerabilities here, not in a public issue.
